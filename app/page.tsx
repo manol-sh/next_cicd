@@ -1,7 +1,6 @@
 import Image from "next/image";
 
-
-const hello = 'hello there'
+const hello = "hello there";
 
 export default function Home() {
   return (
